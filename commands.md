@@ -29,7 +29,7 @@ Lists running containers on the host machine.
 
 Stops running container.
 
-### docker start
+# docker start
 
 Starts a stopped container.
 
